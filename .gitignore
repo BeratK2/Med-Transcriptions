@@ -4,3 +4,4 @@ encoding_train.csv
 /logs
 /qa_model
 /results
+/biobert_medical_specialty_classifier
